@@ -1,0 +1,12 @@
+{
+    "name": "jacklaravel/testpackage",
+    "description": "nothing",
+    "authors": [
+        {
+            "name": "JacobIsack",
+            "email": "jokjack26172@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
